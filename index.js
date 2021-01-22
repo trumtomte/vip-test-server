@@ -1,5 +1,5 @@
 // Woho
-console.log('1');
+console.log("1");
 
 const a = 1;
 
@@ -9,8 +9,7 @@ console.log(i);
 
 console.log(a, "hehe");
 
-if(a==1)
-{
+if(a==1) {
 console.log(1);
     }
 
