@@ -1,9 +1,9 @@
 // Woho
 console.log("1");
 
-// Test
 const a = 1;
 
+// F
 for (let i = 0; i<5; i++) {
 console.log(i);
 }
