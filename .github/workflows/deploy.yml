@@ -31,7 +31,4 @@ jobs:
           port: ${{ secrets.PORT }}
           passphrase: ${{ secrets.PASSPHRASE }}
           script: |
-            cd vip-test-server
-            git pull
-            echo "worked?"
-            pwd
+            cd vip-test-server && git pull
